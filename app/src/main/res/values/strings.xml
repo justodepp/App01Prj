@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Geo Genius</string>
+    <string name="tvAccedi">Accedi</string>
+    <string name="etichetta_user">Nome Utente</string>
+    <string name="etichetta_pwd">Password</string>
+    <string name="user">Max 10 caratteri senza spazi</string>
+    <string name="pwd">almeno 8 caratteri</string>
+    <string name="bAccedi">Accedi</string>
+    <string name="bRegistrami">Registrami</string>
+    <string name="nomeFileAccounts">accessoUtenti.txt</string>
+    <string name="title_activity_home">Home</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_capitali">Capitali</string>
+    <string name="mondo">mondo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_fiumi">Fiumi</string>
+    <string name="action_laghi">Laghi</string>
+    <string name="action_monumenti">Monumenti</string>
+    <string name="title_activity_capitali">CapitaliActivity</string>
+    <string name="title_activity_fiumi">FiumiActivity</string>
+    <string name="title_activity_lista_contatti">ListaContattiActivity</string>
+
+</resources>
